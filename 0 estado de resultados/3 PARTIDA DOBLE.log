@@ -1,0 +1,29 @@
+Contabilidad de partidas dobles con asientos contables:
+    1. Ejemplo prestamo de una persona externa, vamos a prestar dinero 1000
+    2. El socio da a la empresa valor 50000
+        El socio2 da materia prima valor 300000
+    3.  Supongamos: 
+        Venta por 100 € (al contado)
+        Costo de la mercancía vendida: 60 €
+
+
+
+Asientos de diario:
+                            Debe(Deudor)    Haber(Acreedor)
+
+Deudores diversos           1000            
+    Bancos                                  1000
+
+Bancos                      50000
+Almacen                     300000
+    Capital Social                          350000
+
+Bancos (o Clientes)	        100
+    Ventas                                  100
+Costo de ventas	            60
+    Almacén                                 60
+
+
+
+DEBE: lo que entra a la empresa (activos o gastos)
+HABER: lo que sale o lo que se debe (pasivos, ingresos, capital)
