@@ -1,0 +1,19 @@
+Cuenta perdidas y ganacias caso real:
+    Accion                          Valor
+    Ventas                          +100
+    Descuento ventas                -5
+    Ventas Netas                    = +95
+
+    Mano de obra                    -50
+    Materia prima                   -20
+    Costo de ventas                 = -70
+    Utilidad Bruta                  = +95 + -70 = +25
+
+    Gastos Administrativos          -15
+    Gastos de Ventas                -2
+    Total gastos                    = -15 + -2 = -17
+
+    Utilidad antes de impuestos     = +25 + -17 = +8
+    Impuestos a la utilidad         -2.4
+
+    Utilidad neta o resultado ejercicio = +8 + -2.4 = 5.6
